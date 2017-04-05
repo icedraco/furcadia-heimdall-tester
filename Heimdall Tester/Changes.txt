@@ -1,0 +1,8 @@
+﻿Furcadia Heimdall Tester Changelog
+----------------------------------
+
+1.2  [05-May-2012] - Updated to ignore markup tags - 1.1 no longer works with
+                     current protocol due to them.
+1.1  [17-Mar-2011] - QTEMP values are now displayed instead of "PASS" to help
+                     Furcadia staff.
+1.0b [22-Mar-2010] - Initial release.
